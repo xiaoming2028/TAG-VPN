@@ -1,8 +1,8 @@
 # TAG机场官网地址 
 
-## 最新地址：[tagss08.pro](https://tagss08.pro/#/auth/d2RtVGgb)
+## 最新地址：[tagss08.pro](https://tagss09.pro/#/auth/d2RtVGgb)
 
-[TAG 机场](https://tagss08.pro/#/auth/d2RtVGgb)是一家注册在香港的老牌翻墙服务商，稳定运营了六年，主打IEPL内网专线，无需经过GFW，**延迟低，稳定性一流，是我的首选机场**。TAG 机场还提供一些冷门节点，如土耳其、以色列、俄罗斯等，满足不同需求的用户。
+[TAG 机场](https://tagss09.pro/#/auth/d2RtVGgb)是一家注册在香港的老牌翻墙服务商，稳定运营了六年，主打IEPL内网专线，无需经过GFW，**延迟低，稳定性一流，是我的首选机场**。TAG 机场还提供一些冷门节点，如土耳其、以色列、俄罗斯等，满足不同需求的用户。
 
 TAG 机场官方推出了一键翻墙VPN客户端，支持Windows、Mac和安卓系统。iOS用户可以使用第三方付费软件Shadowrocket。
 
@@ -16,7 +16,7 @@ TAG 机场支持常见的Shadowrocket、Clash和Surge订阅，还可以使用官
 
 ### 通过下面链接注册新用户，即可获得全员无门槛9折优惠券：
 
-### [TAG VPN 官网链接](https://tagss08.pro/#/auth/d2RtVGgb)
+### [TAG VPN 官网链接](https://tagss09.pro/#/auth/d2RtVGgb)
 
 以下为晚高峰测速：
 
