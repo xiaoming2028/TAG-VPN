@@ -77,8 +77,11 @@ Netflix、Hulu、HBO、Disney+和Dazn等流媒体都支持。解锁状态可能�
 
 需要较多国家和地区节点，常用海外AI工具和流媒体，TAG值得购买使用。普通个人用户优先看Bronze，流量很轻或只想备用可以看Special，视频和多设备需求明显再考虑Silver。
 
-[进入 TAG 注册页查看最新套餐](https://570836.l49.net/#/auth/d2RtVGgb)
+#### [点击进入 TAG 注册页查看最新套餐](https://570836.l49.net/#/auth/d2RtVGgb)
+
 
 推荐阅读：
-[Claude 防封号指南 2026](https://github.com/xiaoming2028/claudecodefangfeng)
+
+[2026年Claude防封号指南](https://github.com/xiaoming2028/claudecodefangfeng)
+
 [2026机场推荐与评测](https://github.com/xiaoming2028/PAC)
