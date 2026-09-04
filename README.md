@@ -6,9 +6,7 @@
 
 TAG 最早是我在 TG 群里注意到的。有人问备用机场，有人想找原生 IP 或家宽落地，回复里经常有人提到它。让我一直留着它的，还是这些年积下来的使用记录。我从 2022 年开始保存过几次测速和解锁结果，到了 2025 年再看，它的节点列表仍在变化，专线和落地资源也没有慢慢消失。
 
-注册本身免费。你可以先看看当前节点和套餐里有没有自己会用到的地区和出口，再决定是否购买。
-
-👉 <a href="https://570836.l49.net/#/auth/d2RtVGgb" rel="sponsored nofollow"><strong>先查看 TAG 当前节点和套餐</strong></a>
+👉 <a href="https://570836.l49.net/#/auth/d2RtVGgb" rel="sponsored nofollow"><strong>点击进入TAG机场官网注册并领取优惠</strong></a>
 
 ## TAG机场这些年用下来怎么样
 
